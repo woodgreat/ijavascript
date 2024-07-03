@@ -38,7 +38,7 @@
         "jmp": "1 || 2",
         "jsdoc": "3",
         "mocha": "3",
-        "uuid": "3"
+        "uuid": "10"
     },
     "engineStrict": true,
     "scripts": {
